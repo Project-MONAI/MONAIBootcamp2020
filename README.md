@@ -19,6 +19,15 @@ To use GPU resources through Colab remember to change the runtime to GPU:
 
 This will reset the notebook and probably ask you if you are a robot (these instructions assume you are not). Running `!nvidia-smi` in a cell will verify this has worked and show you what kind of hardware you have access to. 
 
+Google Drive files can be accessed by mounting your account in the notebook, this is a convenient way of accessing stored data. Add the following to a cell to mount your directory, you will be asked to authenticate through Google once you run it:
+
+```python
+from google.colab import drive
+
+drive.mount('/content/drive')
+!ls -l "/content/drive/My Drive/Colab Notebooks"
+```
+
 Day 1 Notebooks:
 * [Lab 1 Transforms](https://colab.research.google.com/github/Project-MONAI/MONAIBootcamp2020/blob/master/day1notebooks/lab1_transforms.ipynb)
 * [Lab 2 End-to-End](https://colab.research.google.com/github/Project-MONAI/MONAIBootcamp2020/blob/master/day1notebooks/lab2_end_to_end.ipynb)
