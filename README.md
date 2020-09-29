@@ -24,7 +24,7 @@ Day 1 Notebooks:
 * [Lab 2 End-to-End](https://colab.research.google.com/github/Project-MONAI/MONAIBootcamp2020/blob/master/day1notebooks/lab2_end_to_end.ipynb)
 * [Lab 3 Datasets](https://colab.research.google.com/github/Project-MONAI/MONAIBootcamp2020/blob/master/day1notebooks/lab3_datasets.ipynb)
 * [Lab 3 Networks](https://colab.research.google.com/github/Project-MONAI/MONAIBootcamp2020/blob/master/day1notebooks/lab3_networks.ipynb)
-* [Lab 3 Post Transforms](https://colab.research.google.com/github/Project-MONAI/MONAIBootcamp2020/blob/master/day1notebooks/lab3_networks.ipynb)
+* [Lab 3 Post Transforms](https://colab.research.google.com/github/Project-MONAI/MONAIBootcamp2020/blob/master/day1notebooks/lab3_post_transforms.ipynb)
 
 Day 2 Notebooks:
 * [MedNIST GAN Tutorial](https://colab.research.google.com/github/Project-MONAI/MONAIBootcamp2020/blob/master/day2notebooks/day2_mednist_GAN_tutorial.ipynb)
