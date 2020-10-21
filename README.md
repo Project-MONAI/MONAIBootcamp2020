@@ -6,6 +6,8 @@ The data required for the notebooks is available through the download mechanisms
 Most of the notebooks in this repository would benefit _considerably_ from having **GPU support** enabled. Therefore, it is  _recommended_ to run notebooks on Google Colab. Instructions to replicate the Python environment on your local machines 
 are also provided (See [Install Local Environment](#local))
 
+You can find a video playlist with recordings for each session on the MONAI Youtube Channel at https://www.youtube.com/channel/UCdQ8V2UrWvt9xplZFnHyEGg/.
+
 ## Run on Google Colab (Recommended)
 
 Notebooks can be accessed in Colab by using the links below:
